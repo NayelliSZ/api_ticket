@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+<h1>Hola
 <?php
 	include_once 'apihelp.php';
 
